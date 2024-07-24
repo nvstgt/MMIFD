@@ -163,7 +163,7 @@ TL;DR: The script will process each file in the specified corpus directory, perf
 
 ## Estimation of Accuracy
 
-The system combines multiple methods to achieve high accuracy in detecting forgeries:
+The system combines multiple methods to achieve high accuracy in detecting forgeries. Note that these are -theoretical- estimates, and your actual accuracy will vary depending on the combination of your training set and suspects forgeries:
 
 - **Texture Analysis**: Achieves an accuracy of 80-90% by examining the smoothness or granularity of media files to identify manipulated areas.
 - **PRNU Analysis**: Provides 85-95% accuracy by comparing sensor noise patterns of images to known patterns to detect inconsistencies.
