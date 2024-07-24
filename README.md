@@ -37,6 +37,8 @@ This script provides an image and video forgery detection system written in Pyth
 ## Requirements
 
 - Python 3.7 or higher
+- You will also need 68_points from GuoQuanhao https://github.com/GuoQuanhao/68_points
+- You will also need best_model.h5 from danishjaved https://huggingface.co/spaces/danishjaved/deepfake_detection/blob/main/best_model.h5
 - See `requirements.txt` for a full list of dependencies
 
 ## Installation
@@ -354,3 +356,6 @@ Contributions are welcome! Please create a pull request or submit an issue for a
 ## License
 
 This project is licensed under the MIT License - see https://opensource.org/license/MIT for details.
+
+The work in creating this tool comes from my dissertation, where I tested image forgery detection methods:
+Johnson, C. R. (2024). Forensic Iconography for Image Forgery Detection. Dissertation, Dakota State University.
