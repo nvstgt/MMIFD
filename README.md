@@ -188,6 +188,11 @@ Combined, the system achieves a theoretical overall accuracy of approximately 90
 
 ---
 
+## Testing
+For testiung purpose, the script makes use of ground truth labels. A CSV example has been provided. If you have a known corpus, insert file names and labels accordingly. When the script completes if a label can be found with that file name it will compare and calculate results.
+
+---
+
 ## Index of Functions
 
 ### Loading Models
