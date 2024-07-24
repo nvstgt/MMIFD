@@ -6,8 +6,6 @@ MMIFD is a comprehensive tool designed for detecting image and video forgeries u
 
 MMIFD utilizes parallel processing to efficiently analyze multiple files, generating robust fingerprints for videos to ensure reliable detection of forgeries. The tool also includes custom Keras layers and optimizers for deep learning models, and it has functions for validating and analyzing the database, PCA model, dictionary, and extracted features. The system is capable of building, validating, and saving databases of authentic samples for comparison, making it a powerful solution for image and video forgery detection.
 
-### Updated README for the Final Version of the Script
-
 ---
 
 ## Overview
