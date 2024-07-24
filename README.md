@@ -182,7 +182,7 @@ The system combines multiple methods to achieve high accuracy in detecting forge
 - **Color Filter Array (CFA) Analysis**: Ensures 75-85% accuracy by examining the CFA pattern consistency in images to detect manipulations.
 - **Sparse Representation**: Provides 80-90% accuracy by using sparse representation techniques to encode features in a compact form, allowing for efficient comparison and anomaly detection.
 
-Combined, the system achieves a theoretical overall accuracy of approximately 90-95%. PRactical accuracy is highly dependent on your authentic image dataset.
+Combined, the system achieves a theoretical overall accuracy of approximately 90-95%. Practical accuracy is highly dependent on your authentic image dataset.
 
 ---
 
